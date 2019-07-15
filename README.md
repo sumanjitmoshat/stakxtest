@@ -8,6 +8,7 @@ How to run the project ---
 4. After that you need to configure it as a maven project (Right click on the project and go to configure and then choose convert to maven project)
 4. Clone https://github.com/sumanjitmoshat/stakxtest.git in your IDE as a git import project
 5. repeat stage 4
+6. Run the TestApplication File as a java application
 
 
 Note  - 
